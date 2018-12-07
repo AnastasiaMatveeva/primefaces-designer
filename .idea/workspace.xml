@@ -3,185 +3,202 @@
   <component name="ChangeListManager">
     <list default="true" id="0d91687f-57a8-4207-9183-dcd6fe43a88e" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/2c0746766e5dd951bc006d253d104ab8d2fbf030/layout.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/96a0e01d3df17e65518d03fd884ce378d790c1e5/_button.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/96a0e01d3df17e65518d03fd884ce378d790c1e5/_common.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/96a0e01d3df17e65518d03fd884ce378d790c1e5/_core.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/96a0e01d3df17e65518d03fd884ce378d790c1e5/_data.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/96a0e01d3df17e65518d03fd884ce378d790c1e5/_forms.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/96a0e01d3df17e65518d03fd884ce378d790c1e5/_menus.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/96a0e01d3df17e65518d03fd884ce378d790c1e5/_messages.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/96a0e01d3df17e65518d03fd884ce378d790c1e5/_misc.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/96a0e01d3df17e65518d03fd884ce378d790c1e5/_mixins.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/96a0e01d3df17e65518d03fd884ce378d790c1e5/_overlays.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/96a0e01d3df17e65518d03fd884ce378d790c1e5/_panels.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/b04cd2c5d43d8ead6024849dfd116b7ec5c31a54/_extensions.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/b04cd2c5d43d8ead6024849dfd116b7ec5c31a54/_fonts.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/layout/style/layout.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/primefaces-mytheme/_extensions.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/.idea/artifacts/designer_war.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/.idea/artifacts/designer_war_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/.idea/libraries/Maven__org_glassfish_javax_faces_2_2_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/.idea/libraries/Maven__org_primefaces_primefaces_6_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/.idea/artifacts/designer_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/designer_war.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/.idea/artifacts/designer_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/designer_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/.idea/libraries/Maven__org_glassfish_javax_faces_2_2_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_javax_faces_2_2_8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/.idea/libraries/Maven__org_primefaces_primefaces_6_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_primefaces_primefaces_6_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/.sass-cache/009b2327d648989e1c9b3da3475ec4b683639822/_extensions.scssc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/.sass-cache/009b2327d648989e1c9b3da3475ec4b683639822/_fonts.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/.sass-cache/009b2327d648989e1c9b3da3475ec4b683639822/_variables.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/.sass-cache/009b2327d648989e1c9b3da3475ec4b683639822/_variables.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/b04cd2c5d43d8ead6024849dfd116b7ec5c31a54/_variables.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/.sass-cache/009b2327d648989e1c9b3da3475ec4b683639822/theme.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/b04cd2c5d43d8ead6024849dfd116b7ec5c31a54/theme.scssc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/.sass-cache/1344e6613fdbbcb8cc251a68bcd522e4932e9e08/layout.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/.sass-cache/4702eaf5217c0da15ecfa0479609fc17912c3ee2/_icons.scssc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/.sass-cache/cab4687ea83fdaab7edec69bad4182e68309f919/_button.scssc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/.sass-cache/cab4687ea83fdaab7edec69bad4182e68309f919/_common.scssc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/.sass-cache/cab4687ea83fdaab7edec69bad4182e68309f919/_core.scssc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/.sass-cache/cab4687ea83fdaab7edec69bad4182e68309f919/_data.scssc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/.sass-cache/cab4687ea83fdaab7edec69bad4182e68309f919/_forms.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/.sass-cache/cab4687ea83fdaab7edec69bad4182e68309f919/_icons.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/96a0e01d3df17e65518d03fd884ce378d790c1e5/_icons.scssc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/.sass-cache/cab4687ea83fdaab7edec69bad4182e68309f919/_menus.scssc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/.sass-cache/cab4687ea83fdaab7edec69bad4182e68309f919/_messages.scssc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/.sass-cache/cab4687ea83fdaab7edec69bad4182e68309f919/_misc.scssc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/.sass-cache/cab4687ea83fdaab7edec69bad4182e68309f919/_mixins.scssc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/.sass-cache/cab4687ea83fdaab7edec69bad4182e68309f919/_overlays.scssc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/.sass-cache/cab4687ea83fdaab7edec69bad4182e68309f919/_panels.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/.sass-cache/dec3fa6c5202bfb5ac6d76c1480dce283ef416c5/theme.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/designer.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/assemble/theme.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/java/org/primefaces/designer/domain/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/java/org/primefaces/designer/domain/Document.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/java/org/primefaces/designer/domain/Theme.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/java/org/primefaces/designer/filter/CharacterEncodingFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/java/org/primefaces/designer/service/CarService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/java/org/primefaces/designer/service/DocumentService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/java/org/primefaces/designer/view/chart/ChartView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/java/org/primefaces/designer/view/data/CarouselView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/java/org/primefaces/designer/view/data/DataGridView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/java/org/primefaces/designer/view/data/DataListView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/designer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/designer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/assemble/theme.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/assemble/theme.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/java/org/primefaces/designer/domain/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/primefaces/designer/domain/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/java/org/primefaces/designer/domain/Document.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/primefaces/designer/domain/Document.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/java/org/primefaces/designer/domain/Theme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/primefaces/designer/domain/Theme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/java/org/primefaces/designer/filter/CharacterEncodingFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/primefaces/designer/filter/CharacterEncodingFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/java/org/primefaces/designer/service/CarService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/primefaces/designer/service/CarService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/java/org/primefaces/designer/service/DocumentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/primefaces/designer/service/DocumentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/java/org/primefaces/designer/view/chart/ChartView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/primefaces/designer/view/chart/ChartView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/java/org/primefaces/designer/view/data/CarouselView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/primefaces/designer/view/data/CarouselView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/java/org/primefaces/designer/view/data/DataGridView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/primefaces/designer/view/data/DataGridView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/java/org/primefaces/designer/view/data/DataListView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/primefaces/designer/view/data/DataListView.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/java/org/primefaces/designer/view/data/OrderListView.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/java/org/primefaces/designer/view/data/PickListView.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/java/org/primefaces/designer/view/data/ScheduleView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/java/org/primefaces/designer/view/data/datatable/SelectionView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/java/org/primefaces/designer/view/data/tree/IconView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/java/org/primefaces/designer/view/data/tree/SelectionView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/java/org/primefaces/designer/view/data/datatable/SelectionView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/primefaces/designer/view/data/datatable/SelectionView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/java/org/primefaces/designer/view/data/tree/IconView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/primefaces/designer/view/data/tree/IconView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/java/org/primefaces/designer/view/data/tree/SelectionView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/primefaces/designer/view/data/tree/SelectionView.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/java/org/primefaces/designer/view/file/FileUploadView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/java/org/primefaces/designer/view/input/AutoCompleteView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/java/org/primefaces/designer/view/input/CheckboxView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/java/org/primefaces/designer/view/input/MultiSelectView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/java/org/primefaces/designer/view/input/RadioView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/java/org/primefaces/designer/view/input/SelectOneMenuView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/java/org/primefaces/designer/view/input/AutoCompleteView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/primefaces/designer/view/input/AutoCompleteView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/java/org/primefaces/designer/view/input/CheckboxView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/primefaces/designer/view/input/CheckboxView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/java/org/primefaces/designer/view/input/MultiSelectView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/primefaces/designer/view/input/MultiSelectView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/java/org/primefaces/designer/view/input/RadioView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/primefaces/designer/view/input/RadioView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/java/org/primefaces/designer/view/input/SelectOneMenuView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/primefaces/designer/view/input/SelectOneMenuView.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/java/org/primefaces/designer/view/message/MessagesView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/java/org/primefaces/designer/view/multimedia/ImagesView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/WEB-INF/footer.xhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/WEB-INF/sidebar.xhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/WEB-INF/template.xhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/WEB-INF/topbar.xhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/charts.xhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/data.xhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/documentation.xhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/file.xhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/forms.xhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/menu.xhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/messages.xhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/misc.xhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/overlay.xhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/panel.xhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/demo/images/car/Audi.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/demo/images/car/BMW.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/demo/images/car/Fiat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/demo/images/car/Ford.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/demo/images/car/Honda.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/demo/images/car/Jaguar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/demo/images/car/Mercedes.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/demo/images/car/Renault.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/demo/images/car/Volkswagen.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/demo/images/car/Volvo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/demo/images/nature/nature1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/demo/images/nature/nature10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/demo/images/nature/nature11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/demo/images/nature/nature12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/demo/images/nature/nature2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/demo/images/nature/nature3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/demo/images/nature/nature4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/demo/images/nature/nature5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/demo/images/nature/nature6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/demo/images/nature/nature7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/demo/images/nature/nature8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/demo/images/nature/nature9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/designer/_button.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/designer/_common.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/designer/_core.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/designer/_data.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/designer/_forms.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/designer/_icons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/designer/_menus.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/designer/_messages.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/designer/_misc.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/designer/_mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/designer/_overlays.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/designer/_panels.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/images/demo/car/Audi.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/images/demo/car/BMW.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/images/demo/car/Fiat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/images/demo/car/Ford.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/images/demo/car/Honda.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/images/demo/car/Jaguar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/images/demo/car/Mercedes.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/images/demo/car/Renault.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/images/demo/car/Volkswagen.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/images/demo/car/Volvo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/images/demo/nature/nature1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/images/demo/nature/nature10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/images/demo/nature/nature11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/images/demo/nature/nature12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/images/demo/nature/nature2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/images/demo/nature/nature3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/images/demo/nature/nature4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/images/demo/nature/nature5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/images/demo/nature/nature6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/images/demo/nature/nature7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/images/demo/nature/nature8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/images/demo/nature/nature9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/images/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/script/layout.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/java/org/primefaces/designer/view/multimedia/ImagesView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/primefaces/designer/view/multimedia/ImagesView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/WEB-INF/footer.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/footer.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/WEB-INF/sidebar.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/sidebar.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/WEB-INF/template.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/template.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/WEB-INF/topbar.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/topbar.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/charts.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/charts.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/data.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/data.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/documentation.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/documentation.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/file.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/file.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/forms.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/forms.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/menu.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/menu.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/messages.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/messages.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/misc.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/misc.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/overlay.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/overlay.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/panel.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/panel.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/demo/images/car/Audi.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/demo/images/car/Audi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/demo/images/car/BMW.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/demo/images/car/BMW.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/demo/images/car/Fiat.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/demo/images/car/Fiat.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/demo/images/car/Ford.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/demo/images/car/Ford.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/demo/images/car/Honda.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/demo/images/car/Honda.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/demo/images/car/Jaguar.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/demo/images/car/Jaguar.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/demo/images/car/Mercedes.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/demo/images/car/Mercedes.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/demo/images/car/Renault.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/demo/images/car/Renault.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/demo/images/car/Volkswagen.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/demo/images/car/Volkswagen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/demo/images/car/Volvo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/demo/images/car/Volvo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/demo/images/nature/nature1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/demo/images/nature/nature1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/demo/images/nature/nature10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/demo/images/nature/nature10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/demo/images/nature/nature11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/demo/images/nature/nature11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/demo/images/nature/nature12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/demo/images/nature/nature12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/demo/images/nature/nature2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/demo/images/nature/nature2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/demo/images/nature/nature3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/demo/images/nature/nature3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/demo/images/nature/nature4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/demo/images/nature/nature4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/demo/images/nature/nature5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/demo/images/nature/nature5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/demo/images/nature/nature6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/demo/images/nature/nature6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/demo/images/nature/nature7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/demo/images/nature/nature7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/demo/images/nature/nature8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/demo/images/nature/nature8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/demo/images/nature/nature9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/demo/images/nature/nature9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/designer/_button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/designer/_button.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/designer/_common.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/designer/_common.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/designer/_core.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/designer/_core.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/designer/_data.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/designer/_data.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/designer/_forms.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/designer/_forms.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/designer/_icons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/designer/_icons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/designer/_menus.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/designer/_menus.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/designer/_messages.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/designer/_messages.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/designer/_misc.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/designer/_misc.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/designer/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/designer/_mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/designer/_overlays.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/designer/_overlays.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/designer/_panels.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/designer/_panels.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/images/demo/car/Audi.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/layout/images/demo/car/Audi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/images/demo/car/BMW.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/layout/images/demo/car/BMW.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/images/demo/car/Fiat.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/layout/images/demo/car/Fiat.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/images/demo/car/Ford.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/layout/images/demo/car/Ford.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/images/demo/car/Honda.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/layout/images/demo/car/Honda.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/images/demo/car/Jaguar.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/layout/images/demo/car/Jaguar.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/images/demo/car/Mercedes.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/layout/images/demo/car/Mercedes.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/images/demo/car/Renault.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/layout/images/demo/car/Renault.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/images/demo/car/Volkswagen.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/layout/images/demo/car/Volkswagen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/images/demo/car/Volvo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/layout/images/demo/car/Volvo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/images/demo/nature/nature1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/layout/images/demo/nature/nature1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/images/demo/nature/nature10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/layout/images/demo/nature/nature10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/images/demo/nature/nature11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/layout/images/demo/nature/nature11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/images/demo/nature/nature12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/layout/images/demo/nature/nature12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/images/demo/nature/nature2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/layout/images/demo/nature/nature2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/images/demo/nature/nature3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/layout/images/demo/nature/nature3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/images/demo/nature/nature4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/layout/images/demo/nature/nature4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/images/demo/nature/nature5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/layout/images/demo/nature/nature5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/images/demo/nature/nature6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/layout/images/demo/nature/nature6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/images/demo/nature/nature7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/layout/images/demo/nature/nature7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/images/demo/nature/nature8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/layout/images/demo/nature/nature8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/images/demo/nature/nature9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/layout/images/demo/nature/nature9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/layout/images/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/script/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/layout/script/layout.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/style/layout.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/style/layout.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/layout/style/layout.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/layout/style/layout.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/primefaces-mytheme/_extensions.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/primefaces-mytheme/_fonts.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/primefaces-mytheme/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/primefaces-mytheme/fonts/open-sans-v13-latin-300.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/primefaces-mytheme/fonts/open-sans-v13-latin-300.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/primefaces-mytheme/fonts/open-sans-v13-latin-300.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/primefaces-mytheme/fonts/open-sans-v13-latin-300.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/primefaces-mytheme/fonts/open-sans-v13-latin-300.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/primefaces-mytheme/fonts/open-sans-v13-latin-700.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/primefaces-mytheme/fonts/open-sans-v13-latin-700.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/primefaces-mytheme/fonts/open-sans-v13-latin-700.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/primefaces-mytheme/fonts/open-sans-v13-latin-700.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/primefaces-mytheme/fonts/open-sans-v13-latin-700.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/primefaces-mytheme/fonts/open-sans-v13-latin-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/primefaces-mytheme/fonts/open-sans-v13-latin-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/primefaces-mytheme/fonts/open-sans-v13-latin-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/primefaces-mytheme/fonts/open-sans-v13-latin-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/primefaces-mytheme/fonts/open-sans-v13-latin-regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/primefaces-mytheme/theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/primefaces-mytheme/theme.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/primefaces-mytheme/theme.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/sample.xhtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/domain/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/domain/Document.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/domain/Theme.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/filter/CharacterEncodingFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/service/CarService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/service/DocumentService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/view/ChartView$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/view/ChartView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/view/data/CarouselView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/view/data/DataGridView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/view/data/DataListView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/view/data/OrderListView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/view/data/PickListView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/view/data/ScheduleView$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/view/data/ScheduleView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/view/data/datatable/SelectionView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/view/data/tree/IconView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/primefaces-mytheme/_fonts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/primefaces-mytheme/_fonts.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/primefaces-mytheme/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/primefaces-mytheme/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/primefaces-mytheme/fonts/open-sans-v13-latin-300.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/primefaces-mytheme/fonts/open-sans-v13-latin-300.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/primefaces-mytheme/fonts/open-sans-v13-latin-300.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/primefaces-mytheme/fonts/open-sans-v13-latin-300.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/primefaces-mytheme/fonts/open-sans-v13-latin-300.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/primefaces-mytheme/fonts/open-sans-v13-latin-300.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/primefaces-mytheme/fonts/open-sans-v13-latin-300.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/primefaces-mytheme/fonts/open-sans-v13-latin-300.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/primefaces-mytheme/fonts/open-sans-v13-latin-300.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/primefaces-mytheme/fonts/open-sans-v13-latin-300.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/primefaces-mytheme/fonts/open-sans-v13-latin-700.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/primefaces-mytheme/fonts/open-sans-v13-latin-700.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/primefaces-mytheme/fonts/open-sans-v13-latin-700.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/primefaces-mytheme/fonts/open-sans-v13-latin-700.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/primefaces-mytheme/fonts/open-sans-v13-latin-700.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/primefaces-mytheme/fonts/open-sans-v13-latin-700.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/primefaces-mytheme/fonts/open-sans-v13-latin-700.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/primefaces-mytheme/fonts/open-sans-v13-latin-700.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/primefaces-mytheme/fonts/open-sans-v13-latin-700.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/primefaces-mytheme/fonts/open-sans-v13-latin-700.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/primefaces-mytheme/fonts/open-sans-v13-latin-regular.eot" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/primefaces-mytheme/fonts/open-sans-v13-latin-regular.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/primefaces-mytheme/fonts/open-sans-v13-latin-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/primefaces-mytheme/fonts/open-sans-v13-latin-regular.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/primefaces-mytheme/fonts/open-sans-v13-latin-regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/primefaces-mytheme/fonts/open-sans-v13-latin-regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/primefaces-mytheme/fonts/open-sans-v13-latin-regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/primefaces-mytheme/fonts/open-sans-v13-latin-regular.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/primefaces-mytheme/fonts/open-sans-v13-latin-regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/primefaces-mytheme/fonts/open-sans-v13-latin-regular.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/primefaces-mytheme/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/primefaces-mytheme/theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/primefaces-mytheme/theme.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/primefaces-mytheme/theme.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/resources/primefaces-mytheme/theme.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/primefaces-mytheme/theme.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/src/main/webapp/sample.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/sample.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/domain/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/primefaces/designer/domain/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/domain/Document.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/primefaces/designer/domain/Document.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/domain/Theme.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/primefaces/designer/domain/Theme.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/filter/CharacterEncodingFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/primefaces/designer/filter/CharacterEncodingFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/service/CarService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/primefaces/designer/service/CarService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/service/DocumentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/primefaces/designer/service/DocumentService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/view/ChartView$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/primefaces/designer/view/ChartView$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/view/ChartView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/primefaces/designer/view/ChartView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/view/data/CarouselView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/primefaces/designer/view/data/CarouselView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/view/data/DataGridView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/primefaces/designer/view/data/DataGridView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/view/data/DataListView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/primefaces/designer/view/data/DataListView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/view/data/OrderListView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/primefaces/designer/view/data/OrderListView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/view/data/PickListView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/primefaces/designer/view/data/PickListView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/view/data/ScheduleView$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/primefaces/designer/view/data/ScheduleView$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/view/data/ScheduleView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/primefaces/designer/view/data/ScheduleView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/view/data/datatable/SelectionView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/primefaces/designer/view/data/datatable/SelectionView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/view/data/tree/IconView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/primefaces/designer/view/data/tree/IconView.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/view/data/tree/SelectionView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/view/file/FileUploadView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/view/input/AutoCompleteView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/view/input/CheckboxView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/view/input/MultiSelectView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/view/input/RadioView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/view/input/SelectOneMenuView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/view/message/MessagesView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/view/multimedia/ImagesView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/view/file/FileUploadView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/primefaces/designer/view/file/FileUploadView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/view/input/AutoCompleteView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/primefaces/designer/view/input/AutoCompleteView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/view/input/CheckboxView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/primefaces/designer/view/input/CheckboxView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/view/input/MultiSelectView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/primefaces/designer/view/input/MultiSelectView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/view/input/RadioView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/primefaces/designer/view/input/RadioView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/view/input/SelectOneMenuView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/primefaces/designer/view/input/SelectOneMenuView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/view/message/MessagesView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/primefaces/designer/view/message/MessagesView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/classes/org/primefaces/designer/view/multimedia/ImagesView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/primefaces/designer/view/multimedia/ImagesView.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/designer-1.0.0.war" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/designer-1.0.0/WEB-INF/classes/org/primefaces/designer/domain/Car.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/designer-1.0.0/WEB-INF/classes/org/primefaces/designer/domain/Document.class" beforeDir="false" />
@@ -200,7 +217,7 @@
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/designer-1.0.0/WEB-INF/classes/org/primefaces/designer/view/data/ScheduleView.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/designer-1.0.0/WEB-INF/classes/org/primefaces/designer/view/data/datatable/SelectionView.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/designer-1.0.0/WEB-INF/classes/org/primefaces/designer/view/data/tree/IconView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/designer-1.0.0/WEB-INF/classes/org/primefaces/designer/view/data/tree/SelectionView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/designer-1.0.0/WEB-INF/classes/org/primefaces/designer/view/data/tree/SelectionView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/primefaces/designer/view/data/tree/SelectionView.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/designer-1.0.0/WEB-INF/classes/org/primefaces/designer/view/file/FileUploadView.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/designer-1.0.0/WEB-INF/classes/org/primefaces/designer/view/input/AutoCompleteView.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/designer-1.0.0/WEB-INF/classes/org/primefaces/designer/view/input/CheckboxView.class" beforeDir="false" />
@@ -284,7 +301,7 @@
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/designer-1.0.0/resources/layout/images/demo/nature/nature9.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/designer-1.0.0/resources/layout/images/logo.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/designer-1.0.0/resources/layout/script/layout.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/designer-1.0.0/resources/layout/style/layout.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/designer-1.0.0/resources/layout/style/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/layout/style/layout.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/designer-1.0.0/resources/layout/style/layout.scss" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/designer-1.0.0/resources/primefaces-mytheme/_extensions.scss" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/designer-1.0.0/resources/primefaces-mytheme/_fonts.scss" beforeDir="false" />
@@ -318,19 +335,19 @@
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/designer-1.0.0/sources/org/primefaces/designer/view/data/CarouselView.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/designer-1.0.0/sources/org/primefaces/designer/view/data/DataGridView.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/designer-1.0.0/sources/org/primefaces/designer/view/data/DataListView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/designer-1.0.0/sources/org/primefaces/designer/view/data/OrderListView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/designer-1.0.0/sources/org/primefaces/designer/view/data/PickListView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/designer-1.0.0/sources/org/primefaces/designer/view/data/ScheduleView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/designer-1.0.0/sources/org/primefaces/designer/view/data/OrderListView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/primefaces/designer/view/data/OrderListView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/designer-1.0.0/sources/org/primefaces/designer/view/data/PickListView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/primefaces/designer/view/data/PickListView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/designer-1.0.0/sources/org/primefaces/designer/view/data/ScheduleView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/primefaces/designer/view/data/ScheduleView.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/designer-1.0.0/sources/org/primefaces/designer/view/data/datatable/SelectionView.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/designer-1.0.0/sources/org/primefaces/designer/view/data/tree/IconView.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/designer-1.0.0/sources/org/primefaces/designer/view/data/tree/SelectionView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/designer-1.0.0/sources/org/primefaces/designer/view/file/FileUploadView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/designer-1.0.0/sources/org/primefaces/designer/view/file/FileUploadView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/primefaces/designer/view/file/FileUploadView.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/designer-1.0.0/sources/org/primefaces/designer/view/input/AutoCompleteView.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/designer-1.0.0/sources/org/primefaces/designer/view/input/CheckboxView.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/designer-1.0.0/sources/org/primefaces/designer/view/input/MultiSelectView.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/designer-1.0.0/sources/org/primefaces/designer/view/input/RadioView.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/designer-1.0.0/sources/org/primefaces/designer/view/input/SelectOneMenuView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/designer-1.0.0/sources/org/primefaces/designer/view/message/MessagesView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/designer-1.0.0/sources/org/primefaces/designer/view/message/MessagesView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/primefaces/designer/view/message/MessagesView.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/designer-1.0.0/sources/org/primefaces/designer/view/multimedia/ImagesView.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/maven-archiver/pom.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/primefaces-designer-1.0.0/target/primefaces-mytheme-1.0.0.jar" beforeDir="false" />
@@ -489,12 +506,12 @@
       <updated>1544192114621</updated>
       <workItem from="1544192117247" duration="871000" />
       <workItem from="1544195987890" duration="643000" />
-      <workItem from="1544196986624" duration="380000" />
+      <workItem from="1544196986624" duration="1205000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1894000" />
+    <option name="totallyTimeSpent" value="2719000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="201" y="8" width="1400" height="1000" extended-state="0" />
