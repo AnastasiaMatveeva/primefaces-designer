@@ -1278,7 +1278,7 @@ body .ui-fileupload .ui-fileupload-buttonbar {
       display: none; }
 body .ui-fileupload .ui-fileupload-content {
   border: 1px solid #c8c8c8;
-  background-color: #ffffff;
+  background-color: #f9f7ed;
   color: #333333;
   padding: 0.571em 1em;
   border-top: 0 none;
@@ -1650,14 +1650,14 @@ body .ui-panel {
         color: #333333; }
   body .ui-panel .ui-panel-content {
     border: 1px solid #c8c8c8;
-    background-color: #ffffff;
+    background-color: #f9f7ed;
     color: #333333;
     padding: 0.571em 1em;
     border-top: 0 none;
     line-height: 1.5; }
   body .ui-panel .ui-panel-footer {
     border: 1px solid #c8c8c8;
-    background-color: #ffffff;
+    background-color: #f9f7ed;
     color: #333333;
     padding: 0.571em 1em;
     margin: 0;
@@ -1737,7 +1737,7 @@ body .ui-accordion .ui-accordion-header {
         content: ""; }
 body .ui-accordion .ui-accordion-content {
   border: 1px solid #c8c8c8;
-  background-color: #ffffff;
+  background-color: #f9f7ed;
   color: #333333;
   padding: 0.571em 1em;
   border-top: 0 none;
@@ -1810,7 +1810,7 @@ body .ui-tabs {
           color: #ffffff; }
   body .ui-tabs .ui-tabs-panels {
     border: 1px solid #c8c8c8;
-    background-color: #ffffff;
+    background-color: #f9f7ed;
     color: #333333;
     padding: 0;
     margin: 0;
@@ -1900,7 +1900,7 @@ body .ui-tabs {
     border-right: 0 none; }
 body .ui-panelgrid .ui-panelgrid-cell {
   border: 1px solid #c8c8c8;
-  background-color: #ffffff;
+  background-color: #f9f7ed;
   color: #333333;
   padding: 0.571em 1em; }
   body .ui-panelgrid .ui-panelgrid-cell.ui-widget-header {
@@ -1911,7 +1911,7 @@ body .ui-panelgrid .ui-panelgrid-cell {
     font-weight: 700; }
 body .ui-scrollpanel {
   border: 1px solid #c8c8c8;
-  background-color: #ffffff;
+  background-color: #f9f7ed;
   color: #333333;
   padding: 0.571em 1em; }
   body .ui-scrollpanel .ui-scrollpanel-drag {
@@ -1930,7 +1930,7 @@ body .ui-toolbar {
     margin-right: 0.429em; }
 body .ui-fieldset {
   border: 1px solid #c8c8c8;
-  background-color: #ffffff;
+  background-color: #f9f7ed;
   color: #333333;
   padding: 0.571em 1em; }
   body .ui-fieldset .ui-fieldset-legend {
@@ -1988,7 +1988,7 @@ body .ui-fieldset {
         body .ui-fieldset .ui-fieldset-legend.ui-state-active.ui-state-hover .ui-icon, body .ui-fieldset .ui-fieldset-legend.ui-state-active.ui-state-focus .ui-icon {
           color: #ffffff; }
 body .ui-notificationbar {
-  background-color: #ffffff;
+  background-color: #f9f7ed;
   color: #333333;
   padding: 0.571em 1em;
   border: 1px solid #c8c8c8; }
@@ -2410,7 +2410,7 @@ body .ui-datagrid .ui-datagrid-footer {
   font-weight: 700; }
 body .ui-datagrid .ui-datagrid-content {
   border: 1px solid #c8c8c8;
-  background-color: #ffffff;
+  background-color: #f9f7ed;
   color: #333333;
   padding: 0.571em 1em;
   line-height: 1.5; }
@@ -2430,7 +2430,7 @@ body .ui-datalist .ui-datalist-footer {
   border-bottom: 0 none; }
 body .ui-datalist .ui-datalist-content {
   border: 1px solid #c8c8c8;
-  background-color: #ffffff;
+  background-color: #f9f7ed;
   color: #333333;
   padding: 0.571em 1em;
   line-height: 1.5; }
@@ -2572,7 +2572,7 @@ body .ui-picklist .ui-picklist-filter-container .ui-icon {
     content: ""; }
 body .ui-picklist .ui-picklist-list {
   border: 1px solid #c8c8c8;
-  background-color: #ffffff;
+  background-color: #f9f7ed;
   color: #333333;
   padding: 0; }
   body .ui-picklist .ui-picklist-list .ui-picklist-item {
@@ -2710,7 +2710,7 @@ body .ui-orderlist .ui-g > div {
     padding: 0 0.429em 0 0.429em; }
 body .ui-orderlist .ui-orderlist-list {
   border: 1px solid #c8c8c8;
-  background-color: #ffffff;
+  background-color: #f9f7ed;
   color: #333333;
   padding: 0; }
   body .ui-orderlist .ui-orderlist-list .ui-orderlist-item {
@@ -2952,7 +2952,7 @@ body .ui-carousel {
     margin: 0; }
   body .ui-carousel .ui-carousel-viewport {
     border: 1px solid #c8c8c8;
-    background-color: #ffffff;
+    background-color: #f9f7ed;
     color: #333333;
     padding: 0; }
     body .ui-carousel .ui-carousel-viewport .ui-carousel-item {
@@ -3033,7 +3033,7 @@ body .ui-carousel {
           content: ""; }
 body .ui-tree {
   border: 1px solid #c8c8c8;
-  background-color: #ffffff;
+  background-color: #f9f7ed;
   color: #333333;
   padding: 0.571em 1em; }
   body .ui-tree .ui-tree-container {
@@ -3127,7 +3127,7 @@ body .ui-tree {
     padding-right: 0; }
     body .ui-tree.ui-tree-horizontal .ui-treenode-content {
       border: 1px solid #c8c8c8;
-      background-color: #ffffff;
+      background-color: #f9f7ed;
       color: #333333;
       padding: 0.571em 1em; }
       body .ui-tree.ui-tree-horizontal .ui-treenode-content.ui-state-hover {
@@ -3189,7 +3189,7 @@ body .fc th {
   color: #333333;
   padding: 0.571em 1em; }
 body .fc td.ui-widget-content {
-  background-color: #ffffff;
+  background-color: #f9f7ed;
   border: 1px solid #c8c8c8;
   color: #333333; }
 body .fc td.fc-head-container {
@@ -3229,7 +3229,7 @@ body .ui-fluid .fc .fc-toolbar .ui-button {
   width: auto; }
 body .ui-tagcloud {
   border: 1px solid #c8c8c8;
-  background-color: #ffffff;
+  background-color: #f9f7ed;
   color: #333333;
   padding: 0.571em 1em; }
   body .ui-tagcloud a.ui-state-hover {
@@ -3264,7 +3264,7 @@ body .ui-columntoggler {
         display: inline; }
 body .timeline-frame {
   border: 1px solid #c8c8c8;
-  background-color: #ffffff;
+  background-color: #f9f7ed;
   color: #333333; }
   body .timeline-frame .timeline-navigation {
     background-color: #ece8da;
@@ -3322,7 +3322,7 @@ body .timeline-frame {
       color: #333333; }
   body .timeline-frame .timeline-event {
     border: 1px solid #c8c8c8;
-    background-color: #ffffff;
+    background-color: #f9f7ed;
     color: #333333; }
     body .timeline-frame .timeline-event.ui-state-active {
       background-color: #489E4E;
@@ -3635,7 +3635,7 @@ body .ui-growl {
         color: #212121; }
 
 body .ui-overlaypanel {
-  background-color: #ffffff;
+  background-color: #f9f7ed;
   color: #333333;
   padding: 0;
   border: 1px solid #c8c8c8;
@@ -3763,7 +3763,7 @@ body .ui-dialog {
         body .ui-dialog .ui-dialog-titlebar .ui-dialog-titlebar-icon .ui-icon-newwin:before {
           content: ""; }
   body .ui-dialog .ui-dialog-content {
-    background-color: #ffffff;
+    background-color: #f9f7ed;
     color: #333333;
     border: 1px solid #c8c8c8;
     padding: 0.571em 1em;
@@ -3771,7 +3771,7 @@ body .ui-dialog {
   body .ui-dialog .ui-dialog-footer {
     border: 1px solid #c8c8c8;
     border-top: 0 none;
-    background-color: #ffffff;
+    background-color: #f9f7ed;
     color: #333333;
     padding: 0.571em 1em;
     margin: 0;
@@ -3844,7 +3844,7 @@ body .ui-lightbox {
           content: ""; }
   body .ui-lightbox .ui-lightbox-content-wrapper {
     overflow: hidden;
-    background-color: #ffffff;
+    background-color: #f9f7ed;
     color: #333333;
     border: 0 none;
     padding: 0;
@@ -3910,7 +3910,7 @@ body .ui-lightbox {
     body .ui-lightbox .ui-lightbox-content-wrapper .ui-lightbox-content.ui-lightbox-loading + a {
       display: none; }
 body .ui-sidebar {
-  background-color: #ffffff;
+  background-color: #f9f7ed;
   color: #333333;
   padding: 0.571em 1em;
   border: 1px solid #c8c8c8;
@@ -3933,7 +3933,7 @@ body .ui-sidebar {
         content: ""; }
 
 body .ui-breadcrumb {
-  background-color: #ffffff;
+  background-color: #f9f7ed;
   border: 1px solid #c8c8c8;
   padding: 0.571em 1em; }
   body .ui-breadcrumb ul li {
@@ -4465,7 +4465,7 @@ body .ui-galleria .ui-galleria-nav-next {
     content: ""; }
 body .ui-clock {
   border: 1px solid #c8c8c8;
-  background-color: #ffffff;
+  background-color: #f9f7ed;
   color: #333333;
   padding: 0.571em 1em; }
 body .ui-log {
@@ -4565,13 +4565,13 @@ body .ui-log {
         body .ui-log .ui-log-header .ui-log-button .ui-icon-alert:before {
           content: ""; }
   body .ui-log .ui-log-content {
-    background-color: #ffffff;
+    background-color: #f9f7ed;
     color: #333333;
     border: 1px solid #c8c8c8;
     padding: 0.571em 1em;
     line-height: 1.5; }
 body .ui-terminal {
-  background-color: #ffffff;
+  background-color: #f9f7ed;
   color: #333333;
   border: 1px solid #c8c8c8;
   padding: 0.571em 1em; }
@@ -4579,5 +4579,11 @@ body .ui-terminal {
     font-size: 14px; }
 
 /* Add your customizations of theme here */
+body a {
+  color: #0155a0;
+  text-decoration: none; }
+
+body a:active {
+  color: #ece8da; }
 
 /*# sourceMappingURL=theme.css.map */
