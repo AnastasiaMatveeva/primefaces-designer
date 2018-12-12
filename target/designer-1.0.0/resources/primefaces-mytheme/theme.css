@@ -191,8 +191,6 @@ body .ui-widget-overlay {
 body a {
   color: #489E4E;
   text-decoration: none; }
-  body a:hover {
-    color: #107D11; }
   body a:active {
     color: #ece8da; }
 body .ui-helper-reset {
@@ -1348,7 +1346,7 @@ body .ui-inputgroup .ui-inputgroup-addon-checkbox {
 body .ui-button {
   background-color: #489E4E;
   color: #ffffff;
-  border: 1px solid #489E4E;
+  border: 1px solid #107D11;
   font-size: 14px;
   margin: 0;
   outline: 0 none;
@@ -1357,8 +1355,8 @@ body .ui-button {
   -webkit-transition: background-color 0.3s;
   transition: background-color 0.3s; }
   body .ui-button.ui-state-focus {
-    outline: 1px solid #666666;
-    outline-offset: 1px;
+    outline: none;
+    outline-offset: none;
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none; }
@@ -1403,8 +1401,8 @@ body .ui-button {
     color: #333333;
     border: 1px solid #f4f4f4; }
     body .ui-button.secondary-button.ui-state-focus {
-      outline: 1px solid #666666;
-      outline-offset: 1px; }
+      outline: none;
+      outline-offset: none; }
     body .ui-button.secondary-button.ui-state-hover {
       background-color: #c8c8c8;
       border-color: #c8c8c8;
@@ -4585,5 +4583,19 @@ body a {
 
 body a:active {
   color: #ece8da; }
+
+body .ui-selectonemenu .ui-selectonemenu-trigger {
+  background: #489E4E; }
+
+body .ui-panel .ui-panel-titlebar .ui-panel-titlebar-icon {
+  color: #489E4E; }
+
+body .ui-selectonemenu .ui-selectonemenu-trigger .ui-icon {
+  color: #ffffff; }
+
+.ui-state-disabled,
+.ui-widget-content .ui-state-disabled,
+.ui-widget-header .ui-state-disabled {
+  opacity: .90 !important; }
 
 /*# sourceMappingURL=theme.css.map */

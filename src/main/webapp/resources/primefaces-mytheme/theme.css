@@ -38,7 +38,7 @@
 .ui-icon-triangle-2-n-s { @include icon-override("\f0dc"); }
 .ui-icon-arrow-1-n { @include icon-override("\f062"); }
 .ui-icon-arrow-1-e { @include icon-override("\f061"); }
-.ui-icon-arrow-1-s { @include icon-override("\f063"); }
+.ui-icon-arrowgit -1-s { @include icon-override("\f063"); }
 .ui-icon-arrow-1-w { @include icon-override("\f177"); }
 .ui-icon-arrow-2-n-s { @include icon-override("\f07d"); }
 .ui-icon-arrow-2-e-w { @include icon-override("\f07e"); }
@@ -191,8 +191,6 @@ body .ui-widget-overlay {
 body a {
   color: #489E4E;
   text-decoration: none; }
-  body a:hover {
-    color: #107D11; }
   body a:active {
     color: #ece8da; }
 body .ui-helper-reset {
@@ -1348,7 +1346,7 @@ body .ui-inputgroup .ui-inputgroup-addon-checkbox {
 body .ui-button {
   background-color: #489E4E;
   color: #ffffff;
-  border: 1px solid #489E4E;
+  border: 1px solid #107D11;
   font-size: 14px;
   margin: 0;
   outline: 0 none;
@@ -1357,8 +1355,8 @@ body .ui-button {
   -webkit-transition: background-color 0.3s;
   transition: background-color 0.3s; }
   body .ui-button.ui-state-focus {
-    outline: 1px solid #666666;
-    outline-offset: 1px;
+    outline: none;
+    outline-offset: none;
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none; }
@@ -1403,8 +1401,8 @@ body .ui-button {
     color: #333333;
     border: 1px solid #f4f4f4; }
     body .ui-button.secondary-button.ui-state-focus {
-      outline: 1px solid #666666;
-      outline-offset: 1px; }
+      outline: none;
+      outline-offset: none; }
     body .ui-button.secondary-button.ui-state-hover {
       background-color: #c8c8c8;
       border-color: #c8c8c8;
@@ -1595,7 +1593,7 @@ body .ui-panel {
     padding: 0.571em 1em;
     font-weight: 700; }
     body .ui-panel .ui-panel-titlebar .ui-panel-titlebar-icon {
-      color: left top, right top, color-stop(0%, #fefdfb), color-stop(0%, #ccab85), color-stop(38%, #c6a480), color-stop(65%, #d8bfab), color-stop(87%, #ebdbcc), color-stop(100%, #f6ebe0);
+      color: #848484;
       margin: 0;
       margin-left: 0.429em; }
       body .ui-panel .ui-panel-titlebar .ui-panel-titlebar-icon .ui-icon-closethick {
@@ -1686,7 +1684,7 @@ body .ui-accordion .ui-accordion-header {
   body .ui-accordion .ui-accordion-header:first-child {
     margin-top: 0; }
   body .ui-accordion .ui-accordion-header .ui-icon {
-    color: left top, right top, color-stop(0%, #fefdfb), color-stop(0%, #ccab85), color-stop(38%, #c6a480), color-stop(65%, #d8bfab), color-stop(87%, #ebdbcc), color-stop(100%, #f6ebe0); }
+    color: #848484; }
   body .ui-accordion .ui-accordion-header.ui-state-hover, body .ui-accordion .ui-accordion-header.ui-tabs-outline {
     outline: 0 none;
     border: 1px solid #dbdbdb;
@@ -1775,7 +1773,7 @@ body .ui-tabs {
         padding: 0.571em 1em;
         display: block; }
       body .ui-tabs .ui-tabs-nav .ui-tabs-header .ui-icon {
-        color: left top, right top, color-stop(0%, #fefdfb), color-stop(0%, #ccab85), color-stop(38%, #c6a480), color-stop(65%, #d8bfab), color-stop(87%, #ebdbcc), color-stop(100%, #f6ebe0);
+        color: #848484;
         position: relative;
         top: 0.5em;
         right: 0.5em; }
@@ -1823,7 +1821,7 @@ body .ui-tabs {
     body .ui-tabs .ui-tabs-navscroller .ui-tabs-navscroller-btn {
       border: 1px solid #d4ccb0;
       background-color: #ece8da;
-      color: left top, right top, color-stop(0%, #fefdfb), color-stop(0%, #ccab85), color-stop(38%, #c6a480), color-stop(65%, #d8bfab), color-stop(87%, #ebdbcc), color-stop(100%, #f6ebe0);
+      color: #848484;
       outline: 0 none;
       z-index: 1;
       -moz-transition: 0 none;
@@ -2959,7 +2957,7 @@ body .ui-carousel {
       border: 1px solid #c8c8c8; }
   body .ui-carousel .ui-carousel-button {
     margin: 0 0 0 0.429em;
-    color: left top, right top, color-stop(0%, #fefdfb), color-stop(0%, #ccab85), color-stop(38%, #c6a480), color-stop(65%, #d8bfab), color-stop(87%, #ebdbcc), color-stop(100%, #f6ebe0);
+    color: #848484;
     position: relative;
     top: 0.143em;
     -moz-transition: color 0.3s;
@@ -3001,7 +2999,7 @@ body .ui-carousel {
     position: relative;
     top: 0.143em; }
     body .ui-carousel .ui-carousel-page-links .ui-carousel-page-link {
-      color: left top, right top, color-stop(0%, #fefdfb), color-stop(0%, #ccab85), color-stop(38%, #c6a480), color-stop(65%, #d8bfab), color-stop(87%, #ebdbcc), color-stop(100%, #f6ebe0);
+      color: #848484;
       text-decoration: none; }
       body .ui-carousel .ui-carousel-page-links .ui-carousel-page-link:hover {
         color: #333333; }
@@ -3269,7 +3267,7 @@ body .timeline-frame {
   body .timeline-frame .timeline-navigation {
     background-color: #ece8da;
     border: 1px solid #d4ccb0;
-    color: left top, right top, color-stop(0%, #fefdfb), color-stop(0%, #ccab85), color-stop(38%, #c6a480), color-stop(65%, #d8bfab), color-stop(87%, #ebdbcc), color-stop(100%, #f6ebe0); }
+    color: #848484; }
     body .timeline-frame .timeline-navigation .ui-icon.ui-icon-circle-zoomin {
       background: none;
       display: inline-block;
@@ -3692,7 +3690,7 @@ body .ui-dialog {
       margin: 0;
       float: none; }
     body .ui-dialog .ui-dialog-titlebar .ui-dialog-titlebar-icon {
-      color: left top, right top, color-stop(0%, #fefdfb), color-stop(0%, #ccab85), color-stop(38%, #c6a480), color-stop(65%, #d8bfab), color-stop(87%, #ebdbcc), color-stop(100%, #f6ebe0);
+      color: #848484;
       border: 0 none;
       padding: 0;
       margin-left: 0.429em;
@@ -3823,7 +3821,7 @@ body .ui-lightbox {
       margin: 0; }
     body .ui-lightbox .ui-lightbox-caption .ui-lightbox-close {
       padding: 0;
-      color: left top, right top, color-stop(0%, #fefdfb), color-stop(0%, #ccab85), color-stop(38%, #c6a480), color-stop(65%, #d8bfab), color-stop(87%, #ebdbcc), color-stop(100%, #f6ebe0);
+      color: #848484;
       -moz-transition: color 0.3s;
       -o-transition: color 0.3s;
       -webkit-transition: color 0.3s;
@@ -4265,7 +4263,7 @@ body .ui-tabmenu {
         padding: 0.571em 1em;
         display: block; }
         body .ui-tabmenu .ui-tabmenu-nav .ui-tabmenuitem a .ui-icon {
-          color: left top, right top, color-stop(0%, #fefdfb), color-stop(0%, #ccab85), color-stop(38%, #c6a480), color-stop(65%, #d8bfab), color-stop(87%, #ebdbcc), color-stop(100%, #f6ebe0);
+          color: #848484;
           display: inline-block;
           vertical-align: middle;
           float: none;
@@ -4303,7 +4301,7 @@ body .ui-panelmenu .ui-panelmenu-header {
   -webkit-transition: 0 none;
   transition: 0 none; }
   body .ui-panelmenu .ui-panelmenu-header .ui-icon {
-    color: left top, right top, color-stop(0%, #fefdfb), color-stop(0%, #ccab85), color-stop(38%, #c6a480), color-stop(65%, #d8bfab), color-stop(87%, #ebdbcc), color-stop(100%, #f6ebe0);
+    color: #848484;
     position: static;
     display: inline-block;
     margin-right: 0.429em; }
@@ -4484,7 +4482,7 @@ body .ui-log {
       display: inline-block;
       position: static;
       margin-right: 0.429em;
-      color: left top, right top, color-stop(0%, #fefdfb), color-stop(0%, #ccab85), color-stop(38%, #c6a480), color-stop(65%, #d8bfab), color-stop(87%, #ebdbcc), color-stop(100%, #f6ebe0);
+      color: #848484;
       padding: 2px;
       -moz-transition: color 0.3s;
       -o-transition: color 0.3s;
@@ -4585,5 +4583,19 @@ body a {
 
 body a:active {
   color: #ece8da; }
+
+body .ui-selectonemenu .ui-selectonemenu-trigger {
+  background: #489E4E; }
+
+body .ui-panel .ui-panel-titlebar .ui-panel-titlebar-icon {
+  color: #489E4E; }
+
+body .ui-selectonemenu .ui-selectonemenu-trigger .ui-icon {
+  color: #ffffff; }
+
+.ui-state-disabled,
+.ui-widget-content .ui-state-disabled,
+.ui-widget-header .ui-state-disabled {
+  opacity: .90 !important; }
 
 /*# sourceMappingURL=theme.css.map */

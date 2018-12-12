@@ -1,9 +1,8 @@
 //main color scheme
 $primaryColor:#489E4E;
 $primaryDarkerColor:#107D11;
-$primaryDarkestColor:#ece8da;
+$primaryThirdColor:#ece8da;
 $primaryTextColor:#ffffff;
-
 //global
 $fontFamily:"Roboto","Helvetica Neue",sans-serif;
 $fontSize:14px;
@@ -21,7 +20,7 @@ $iconFontSize:1.143em;
 //anchors
 $linkColor:$primaryColor;
 $linkHoverColor:$primaryDarkerColor;
-$linkActiveColor:$primaryDarkestColor;
+$linkActiveColor: $primaryThirdColor;
 
 //highlight
 $highlightBgColor:$primaryColor;
@@ -94,16 +93,16 @@ $buttonWithRightIconPadding:.429em 2em .429em 1em;
 $buttonIconOnlyPadding:.429em;
 $buttonIconOnlyWidth:2.143em;
 $buttonBgColor:$primaryColor;
-$buttonBorder:1px solid $primaryColor;
+$buttonBorder:1px solid $primaryDarkerColor;
 $buttonTextColor:$primaryTextColor;
 $buttonHoverBgColor:$primaryDarkerColor;
 $buttonHoverTextColor:$primaryTextColor;
 $buttonHoverBorderColor:$primaryDarkerColor;
-$buttonActiveBgColor:$primaryDarkestColor;
+$buttonActiveBgColor: $primaryThirdColor;
 $buttonActiveTextColor:$primaryTextColor;
-$buttonActiveBorderColor:$primaryDarkestColor;
-$buttonFocusOutline:1px solid #666666;
-$buttonFocusOutlineOffset:1px;
+$buttonActiveBorderColor: $primaryThirdColor;
+$buttonFocusOutline:none;
+$buttonFocusOutlineOffset:none;
 $buttonFocusShadow:none;
 $buttonTransition:background-color $transitionDuration;
 $raisedButtonShadow:0 2px 3px 0 rgba(0, 0, 0, 0.15);
@@ -209,8 +208,8 @@ $toggleButtonActiveBgColor:$primaryColor;
 $toggleButtonActiveBorderColor:$primaryColor;
 $toggleButtonActiveTextColor:#ffffff;
 $toggleButtonActiveIconColor:#ffffff;
-$toggleButtonActiveHoverBgColor:$primaryDarkestColor;
-$toggleButtonActiveHoverBorderColor:$primaryDarkestColor;
+$toggleButtonActiveHoverBgColor: $primaryThirdColor;
+$toggleButtonActiveHoverBorderColor: $primaryThirdColor;
 $toggleButtonActiveHoverTextColor:#ffffff;
 $toggleButtonActiveHoverIconColor:#ffffff;
 $toggleButtonFocusOutline:0 none;
@@ -233,7 +232,7 @@ $ratingIconWidth:1.429em;
 $ratingIconHeight:1.429em;
 $ratingIconFontSize:1.429em;
 $ratingStarIconColor:$textColor;
-$ratingStarIconHoverColor:$primaryDarkestColor;
+$ratingStarIconHoverColor: $primaryThirdColor;
 $ratingStarActiveIconColor:$primaryColor;
 
 //slider
@@ -323,7 +322,7 @@ $keyboardSpecialButtonBorder:1px solid transparent;
 $keyboardSpecialButtonBgColor:$primaryColor;
 $keyboardSpecialButtonTextColor:#ffffff;
 $keyboardSpecialButtonHoverBorder:1px solid transparent;
-$keyboardSpecialButtonHoverBgColor:$primaryDarkestColor;
+$keyboardSpecialButtonHoverBgColor: $primaryThirdColor;
 $keyboardSpecialButtonHoverTextColor:#ffffff;
 
 //panel common
@@ -408,8 +407,8 @@ $datatableResizerHelperBgColor:$primaryColor;
 $datatableDataIconColor:$textSecondaryColor;
 
 //schedule
-$scheduleEventBgColor:$primaryDarkestColor;
-$scheduleEventBorder:1px solid $primaryDarkestColor;
+$scheduleEventBgColor: $primaryThirdColor;
+$scheduleEventBorder:1px solid $primaryThirdColor;
 $scheduleEventTextColor:#ffffff;
 
 //tree
@@ -450,7 +449,7 @@ $overlayContainerShadow:0 0 .429em 0 rgba(0, 0, 0, 0.16);
 //overlay panel
 $overlayPanelCloseIconBgColor:$primaryColor;
 $overlayPanelCloseIconColor:#ffffff;
-$overlayPanelCloseIconHoverBgColor:$primaryDarkestColor;
+$overlayPanelCloseIconHoverBgColor: $primaryThirdColor;
 $overlayPanelCloseIconHoverColor:#ffffff;
 
 //tooltip

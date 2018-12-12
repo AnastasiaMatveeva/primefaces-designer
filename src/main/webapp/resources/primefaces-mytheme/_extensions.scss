@@ -4,3 +4,17 @@ body a {
   text-decoration: none; }
 body a:active {
   color: #ece8da; }
+body .ui-selectonemenu .ui-selectonemenu-trigger {
+  background: $primaryColor;
+}
+body .ui-panel .ui-panel-titlebar .ui-panel-titlebar-icon {
+  color: $primaryColor;
+}
+body .ui-selectonemenu .ui-selectonemenu-trigger .ui-icon {
+  color: #ffffff;
+}
+.ui-state-disabled,
+.ui-widget-content .ui-state-disabled,
+.ui-widget-header .ui-state-disabled {
+  opacity: .90 !important;
+}

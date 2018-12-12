@@ -53,10 +53,7 @@ body {
     a {
         color: $linkColor;
         text-decoration: none;
-
-        &:hover {
-            color: $linkHoverColor;
-        }
+        
 
         &:active {
             color: $linkActiveColor;
