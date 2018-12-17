@@ -38,7 +38,7 @@
 .ui-icon-triangle-2-n-s { @include icon-override("\f0dc"); }
 .ui-icon-arrow-1-n { @include icon-override("\f062"); }
 .ui-icon-arrow-1-e { @include icon-override("\f061"); }
-.ui-icon-arrow-1-s { @include icon-override("\f063"); }
+.ui-icon-arrowgit -1-s { @include icon-override("\f063"); }
 .ui-icon-arrow-1-w { @include icon-override("\f177"); }
 .ui-icon-arrow-2-n-s { @include icon-override("\f07d"); }
 .ui-icon-arrow-2-e-w { @include icon-override("\f07e"); }
@@ -4593,9 +4593,24 @@ body .ui-panel .ui-panel-titlebar .ui-panel-titlebar-icon {
 body .ui-selectonemenu .ui-selectonemenu-trigger .ui-icon {
   color: #ffffff; }
 
-.ui-state-disabled,
-.ui-widget-content .ui-state-disabled,
-.ui-widget-header .ui-state-disabled {
+body .ui-state-disabled,
+body .ui-widget-content .ui-state-disabled,
+body .ui-widget-header .ui-state-disabled {
   opacity: .90 !important; }
+
+body .ui-datatable thead th {
+  vertical-align: bottom; }
+
+body .ui-chkbox {
+  display: contents; }
+
+body .ui-panelgrid {
+  width: 100%; }
+
+body .ui-sticky {
+  top: 111px !important; }
+
+body .ui-tree .ui-treenode-content.ui-tree-selectable .ui-chkbox.ui-selection {
+  margin-right: 8px; }
 
 /*# sourceMappingURL=theme.css.map */
