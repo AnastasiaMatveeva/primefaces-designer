@@ -4613,4 +4613,8 @@ body .ui-sticky {
 body .ui-tree .ui-treenode-content.ui-tree-selectable .ui-chkbox.ui-selection {
   margin-right: 8px; }
 
+body .ui-menubutton {
+  height: 52px;
+  width: 100px; }
+
 /*# sourceMappingURL=theme.css.map */
